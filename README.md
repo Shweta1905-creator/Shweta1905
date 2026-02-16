@@ -4,7 +4,7 @@
 </div>
 
 ### 👩‍💻 About Me
-Aspiring Data Scientist with B.Tech in Information Technology (SGPA 8.17/10). Passionate about transforming complex data into actionable insights using Python, SQL, ML, and visualization tools. Experienced in computer vision, NLP, and deploying apps with Streamlit/Docker/AWS. Currently exploring Generative AI and LLMs. [file:1]
+Aspiring Data Scientist with B.Tech in Information Technology (SGPA 8.17/10). Passionate about transforming complex data into actionable insights using Python, SQL, ML, and visualization tools. Experienced in computer vision, NLP, and deploying apps with Streamlit/Docker/AWS. Currently exploring Generative AI and LLMs.
 
 - 🔭 Working on real-world ML projects like gesture control and image super-resolution
 - 🌱 Learning advanced Deep Learning & Prompt Engineering
@@ -23,25 +23,21 @@ Aspiring Data Scientist with B.Tech in Information Technology (SGPA 8.17/10). Pa
 | Languages | Python, SQL |
 | ML/DL | Scikit-learn, TensorFlow, PyTorch, NumPy, Pandas |
 | Viz/Tools | Tableau, Matplotlib, Seaborn, Streamlit |
-| Other | MySQL, Git/GitHub, Docker, AWS, OpenCV, Google Analytics | [file:1]
+| Other | MySQL, Git/GitHub, Docker, AWS, OpenCV, Google Analytics | 
 
 ## ✨ Featured Projects
 [![Gesture Volume Control](https://github-readme-stats.vercel.app/api/pin/?username=Shweta1905-creator&repo=gesture-volume-control&theme=radical)](https://github.com/Shweta1905-creator/gesture-volume-control)  
-**Gesture-Based Volume Control** - Real-time CV app using OpenCV/MediaPipe for hands-free volume control (98% accuracy). [Aug 2024] [file:1]
+**Gesture-Based Volume Control** - Real-time CV app using OpenCV/MediaPipe for hands-free volume control (98% accuracy). [Aug 2024] 
 
 [![Image Super Resolution](https://github-readme-stats.vercel.app/api/pin/?username=Shweta1905-creator&repo=image-super-res&theme=radical)](https://github.com/Shweta1905-creator/image-super-res)  
-**PixelPerfect Image Editor** - Streamlit app with AI upscaling, forensics, and batch editing. [Feb 2025] [file:1]
+**PixelPerfect Image Editor** - Streamlit app with AI upscaling, forensics, and batch editing. [Feb 2025] 
 
-- **Aerofit Segmentation** - Customer analysis with Pandas/Seaborn for product positioning [file:1]
-- **Netflix EDA** - Trends viz using Matplotlib/Seaborn [file:1]
+- **Aerofit Segmentation** - Customer analysis with Pandas/Seaborn for product positioning 
+- **Netflix EDA** - Trends viz using Matplotlib/Seaborn 
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta1905-creator&theme=radical" alt="streak" />
-</div>
 
 ## 🏆 Achievements
-- Guest Lecturer in Statistics at Bharti Institute of Nursing [file:1]
+- Guest Lecturer in Statistics at Bharti Institute of Nursing 
 - Self-taught ML via projects during B.Tech (2021-2025)
 
 ## 🤝 Connect
