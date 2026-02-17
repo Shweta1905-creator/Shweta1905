@@ -1,5 +1,7 @@
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Shweta+GhritLahre;Data+Analyst+%7C+ML+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG"/>
+</h1>
+<br/>
 
 🎯 About Me
 <table>
@@ -20,7 +22,6 @@ def say_hi(self):
 me = DataAnalyst()
 me.say_hi()
     
-
 📊 **Core Expertise:** SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects  
 ⚡ **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization  
 🏆 **Expanding Into:** Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist  
