@@ -2,26 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Shweta+GhritLahre;Data+Analyst+%7C+ML+Enthusiast;Turning+Data+Into+Insights" alt="Typing SVG"/>
 </h1>
 
-<h3 align="center">B.Tech IT | Data Analyst | Machine Learning Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shweta1905-creator&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Shweta1905-creator?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen?style=for-the-badge" alt="focus"/>
-</p>
-
-<div align="center">
-  <a href="/cdn-cgi/l/email-protection#d5a6bda2b0a1b4b2bda7bca1b9b4bda7b0e5e095b2b8b4bcb9fbb6bab8"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shweta-Ghritlahre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Shweta1905-creator"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</div>
-
 <br/>
 
 ---
 
 <!-- ===== ABOUT ME SECTION ===== -->
 <img align="right" alt="Analytics GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ## 🎯 About Me
 
@@ -303,33 +290,6 @@ Deployed ML models in production web applications
 
 ---
 
-## 📊 Analytics Skills Matrix
-
-<div align="center">
-
-| 📊 **Data Analysis** | 📈 **Statistics** | 📉 **Visualization** | 🤖 **Machine Learning** |
-|:---:|:---:|:---:|:---:|
-| SQL Query Writing | Hypothesis Testing | Tableau Dashboards | Supervised Learning |
-| Data Cleaning | A/B Testing | Power BI Reports | Regression Analysis |
-| Excel Modeling | Probability Theory | Matplotlib/Seaborn | Classification Models |
-| ETL Processes | Descriptive Stats | Interactive Charts | Clustering |
-| Data Validation | Inferential Stats | Data Storytelling | Feature Engineering |
-| KPI Development | ANOVA & t-tests | Business Reporting | Predictive Analytics |
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shweta1905-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta1905-creator&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta1905-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta1905-creator&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
