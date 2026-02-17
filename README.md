@@ -28,9 +28,10 @@
 
 ## 🎯 About Me
 
+<!-- Row 1: Code block (left) + Image (right) -->
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 ```python
 class DataAnalyst:
@@ -50,18 +51,20 @@ me = DataAnalyst()
 me.say_hi()
 ```
 
+</td>
+<td width="38%" valign="top" align="center">
+<br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Analytics Illustration"/>
+</td>
+</tr>
+</table>
+
+<!-- Row 2: 5 points full width below -->
 ⚡ **Core Expertise:** SQL querying, Excel modeling, Tableau dashboards & EDA — applied in real business analytics projects  
 💻 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, analysis & visualization  
 🚀 **Expanding Into:** Machine Learning (Scikit-learn, TensorFlow, OpenCV) to grow from Data Analyst → Data Scientist  
 ☁️ **Currently Learning:** Advanced SQL, Cloud Analytics (AWS/GCP), MLOps & LLM-powered data workflows  
 🏆 **Goal:** Deliver business-ready insights through data storytelling, statistical analysis & predictive modeling  
-
-</td>
-<td width="40%" valign="middle" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Analytics GIF"/>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -317,37 +320,6 @@ Deployed ML models in production web applications
 
 ---
 
-## 📊 Analytics Skills Matrix
-
-<div align="center">
-
-| 📊 **Data Analysis** | 📈 **Statistics** | 📉 **Visualization** | 🤖 **Machine Learning** |
-|:---:|:---:|:---:|:---:|
-| SQL Query Writing | Hypothesis Testing | Tableau Dashboards | Supervised Learning |
-| Data Cleaning | A/B Testing | Power BI Reports | Regression Analysis |
-| Excel Modeling | Probability Theory | Matplotlib/Seaborn | Classification Models |
-| ETL Processes | Descriptive Stats | Interactive Charts | Clustering |
-| Data Validation | Inferential Stats | Data Storytelling | Feature Engineering |
-| KPI Development | ANOVA & t-tests | Business Reporting | Predictive Analytics |
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shweta1905-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta1905-creator&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta1905-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta1905-creator&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
----
-
 ## 🎯 Current Focus & Availability
 
 <table>
@@ -416,4 +388,3 @@ I'm always excited to connect with fellow data enthusiasts, potential collaborat
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-
